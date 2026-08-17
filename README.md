@@ -29,6 +29,7 @@ STUDY-MANAGEMENT/
 │   ├── TACTICS/            # Small, situational moves within a session
 │   ├── TECHNIQUES/         # Specific applied methods for a purpose
 │   └── METHODS/            # Full end-to-end learning approaches
+│   └── SUPPLEMENTS/        # Enhancement to study stack
 │
 ├── SYSTEM/                 # The process layer — governance and mechanisms
 │   ├── README.md           # Defines what a "study system" is
