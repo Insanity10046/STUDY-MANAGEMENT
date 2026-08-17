@@ -1,6 +1,6 @@
 # Machine Method V2
 ## Theoretical Basis
-Built on **schema construction**, the **testing effect**, **interleaving**, **desirable difficulties** (Bjork & Bjork), **cognitive load management**, **scaffolding/fading**, and **spaced repetition**. Core loop:
+Built on **schema construction**(expertise retrieval effect), the **testing effect**(proactive interference from wrong schemas), **interleaving**, **desirable difficulties** (Bjork & Bjork), **cognitive load management**, **scaffolding/fading**, and **spaced repetition**. Core loop:
 
 > Schema Induction → Interleaved Retrieval Practice → Immediate Corrective Feedback → Schema Refinement → Scaffold Fading → Criterion-Referenced Assessment → Consolidated Recall Summary
 
@@ -9,6 +9,47 @@ Built on **schema construction**, the **testing effect**, **interleaving**, **de
 ## Phase 0 — Schema Induction (Broad Scaffold)
 
 Build a coarse **mental schema** of the whole domain first — top-down, not bottom-up. Target deep structure(pillars of the domain or foundations, e.g for laws it would be legal research, writing, and arguement the 3 pillars of legal studies), not surface facts(topics of the domain).
+
+**But:** the source of the scaffold depends on prior knowledge.
+ 
+### For genuine novices
+ 
+Do **not** generate the schema from intuition. Wrong early schemas create proactive interference and must be unlearned.
+ 
+Instead:
+ 
+1. **Find a high-quality expert scaffold**  
+   - textbook chapter summary  
+   - trusted syllabus outline  
+   - expert concept map  
+   - reliable table of contents with core principles
+ 
+2. **Study it briefly**  
+   Understand the main relational structure, not every detail.
+ 
+3. **Close the source.**
+ 
+4. **Reconstruct the scaffold from memory**  
+   Write or draw the broad structure in your own words.
+ 
+5. **Compare with the expert source.**  
+   Identify gaps, false connections, missing core principles.
+ 
+6. **Correct your reconstruction.**  
+   This corrected version becomes your initial schema.
+ 
+### For learners with valid prior knowledge
+ 
+If you can already explain the core relationships or solve mixed basic problems:
+ 
+1. Close the book.
+2. Generate a rough scaffold from memory/intuition.
+3. Compare it with an expert source.
+4. Correct errors and fill gaps.
+ 
+This preserves the generation effect while preventing false schemas, expert-sourced.
+ 
+---
 
 **Example (Algebra)**:
 > Algebra is preserving equivalence while isolating unknowns.  
@@ -21,8 +62,21 @@ This is a low-resolution **advance organizer** (Ausubel). Per **cognitive load t
 
 ## Phase 1 — External Scaffolding
 
-Externalize the schema into two supports (**cognitive offloading**):
+Externalize the schema into two supports for **cognitive offloading**.
+ 
+But the supports must come from the **expert-validated schema**, not from novice intuition.
+ 
+### Process
+ 
+1. Start from the corrected broad scaffold from Phase 0.
+2. Build a **condition–action rule sheet** and a **concept map** from that scaffold.
+3. Compare your rule sheet and map with the expert source.
+4. Correct missing rules, wrong triggers, or false relationships.
+5. Use them during early interleaved practice.
+ 
+This gives you learner-generated but expert-validated supports.
 
+---
 1. **Condition–action rules**, e,g(cheat-sheet):
 > IF dividing by a negative → flip inequality.  
 > IF both equations isolate the same variable -> use substitution.  
@@ -120,6 +174,7 @@ Use the summary for **spaced repetition**, per the **spacing effect** and **forg
 
 | # | Principle | Cognitive-Science Basis |
 |---|---|---|
+| 0 | Novices borrow expert schemas; expert generate schemas | Expertise reversal effect; prevention of false schema encoding |
 | 1 | Don't over-elaborate the initial schema | Cognitive load theory |
 | 2 | Interleave from the start | Interleaving; discrimination learning |
 | 3 | Retrieve before consulting aids | Testing effect; generation effect |
