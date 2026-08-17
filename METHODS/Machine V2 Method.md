@@ -1,7 +1,8 @@
 # Machine Method V2
 ## Theoretical Basis
-Built on **schema construction**(expertise retrieval effect), the **testing effect**(proactive interference from wrong schemas), **interleaving**, **desirable difficulties** (Bjork & Bjork), **cognitive load management**, **scaffolding/fading**, and **spaced repetition**. Core loop:
+Built on **schema construction**, **expertise retrieval effect**, the **testing effect**, **proactive interference from wrong schemas**, **interleaving**, **desirable difficulties** (Bjork & Bjork), **cognitive load management**, **scaffolding/fading**, and **spaced repetition**. 
 
+### Core loop:
 > Schema Induction → Interleaved Retrieval Practice → Immediate Corrective Feedback → Schema Refinement → Scaffold Fading → Criterion-Referenced Assessment → Consolidated Recall Summary
 
 ---
@@ -95,7 +96,7 @@ These reduce load during early interleaved practice.
 Use **interleaving**, not blocked practice: mix all subtopics from the start. Forces **discrimination learning** and counters the **illusion of competence** (related to the **Dunning–Kruger effect**).
 
 Per item:
-- Free recall attempt, 30–60 seconds, before consulting(cheatsheet) supports.
+- Free recall attempt: continue until you produce a candidate answer or hit a clear "I don't know" (retrieval failure) — not a fixed clock. Loose backstop: ~2 min max per item before consulting(cheatsheet).
 - Consult scaffolds(cheatsheet) only if retrieval fails.
 - Solve, then apply immediate corrective feedback.
 - For concept map, draw it before or after practice, compare and add missing gaps.
