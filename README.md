@@ -1,5 +1,5 @@
 # STUDY-MANAGEMENT
-
+![icon](https://github.com/Insanity10046/STUDY-MANAGEMENT/blob/main/icon.webp)
 > A repository that treats **studying as a system to be engineered**, not a habit to be improvised.
 
 This repo separates *what you use to study* (tools, methods, resources) from *how you actually run your studying* (rules, mechanisms, workflow). That split — **Study Stack vs. Study System** — is the core idea the whole repo is built around, and it maps almost one-to-one onto how you'd design any system: components at the bottom, governance rules in the middle, orchestrated processes running on top.
