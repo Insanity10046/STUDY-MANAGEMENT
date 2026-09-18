@@ -1,4 +1,4 @@
-# The WWWH Principle
+# The 5W1H Principle
 
 **Formal statement:**
 
@@ -15,7 +15,7 @@ For any concept, procedure, or phenomenon **X**, a learner understands **X** dee
 
 **As a learning goal:**
 
-A learner has achieved the WWWH Principle for **X** when they can, without relying on a verbatim definition:
+A learner has achieved the 5W1H Principle for **X** when they can, without relying on a verbatim definition:
 
 - state and explain **what** X is and is not;
 - justify **why** X exists, works, and matters;
